@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Benjamin Tibi, aka TheShark55. People Call me like that because I am a shark, and I love the number 5. I am currently in my 2nd year in one of the best Engineering schools in France : CentraleSupélec. 
+- 👋 Hi, I’m Benjamin Tibi. I am currently in my 2nd year in one of the best Engineering schools in France : CentraleSupélec. 
 - 👀 I’m interested in Quantitative Finance.
 - 🌱 I’m currently learning Stochastic processes, Markov chains, Martingales, and a lot a things related to Market Finance. 
 - 💞️ I’m a big fan of sports. Especially I like to play and watch Football and Tennis. And did several competitions.
