@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Benjamin Tibi. I am currently in my 2nd year in one of the best Engineering schools in France : CentraleSupélec. 
+- 👋 Hi, I’m Benjamin Tibi. I am currently interning at Barclays Investment Bank in Rates Option Trading.
+- I am in one of the best Engineering schools in France : CentraleSupélec. 
 - 👀 I’m interested in Quantitative Finance.
 - 🌱 I’m currently learning about Stochastic processes, Markov chains, Martingales, and a lot a things related to Market Finance. 
 - 💞️ I’m a big fan of sports. Especially I like to play and watch Football and Tennis. And did several competitions.
